@@ -43,6 +43,16 @@
 				(justify left top)
 			)
 		)
+		(pin "RESET" input
+			(at 123.19 72.39 180)
+			(uuid "43ff42b5-ffdd-49ea-80a9-cf2ddc43b757")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "eps"
 				(path "/a2217646-5a78-4fef-9de7-bc2db7614731"
